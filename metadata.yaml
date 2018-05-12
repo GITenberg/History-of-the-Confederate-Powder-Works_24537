@@ -1,0 +1,30 @@
+_repo: History-of-the-Confederate-Powder-Works_24537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rains, George Washington
+    alias: Rains, Geo. W.
+    birthdate: 1817
+    deathdate: 1898
+    gutenberg_agent_id: '26567'
+    url: http://www.gutenberg.org/2009/agents/26567
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confederate Powder Works'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'E456'
+title: History of the Confederate Powder Works
+url: http://www.gutenberg.org/ebooks/24537
